@@ -11,7 +11,7 @@ conda create -p myenv2 python=3.10 -y
 Activate the environment
 
 ```
-conda activate myenv2
+conda activate myenv2/
 
 ```
 
